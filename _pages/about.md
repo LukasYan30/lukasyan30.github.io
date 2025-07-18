@@ -21,7 +21,7 @@ I am currently pursuing my Master's degree in the School of Information and Comm
 
 My current research focuses on **Efficient Low-Level Vision** and **Multimodal Large Language Models**. If you share similar interests or have ideas for collaboration, please feel free to contact me!
 
-**Looking for PhD Opportunities (Fall 2027)**  
+**Looking for PhD Opportunities (Fall 2027), mainly abroad**  
 I am actively looking for PhD positions starting in Fall 2027. If my background and research interests align with your group, please feel free to contact me at Email: yanhailong@std.uestc.edu.cn, WeChat: PatienceIsKey- .
 
 # 🔥 News
