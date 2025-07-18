@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), under the joint supervision of [Prof. Le Zhang](http://zhangleuestc.cn/) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). Prior to UESTC, I earned my Bachelor's degree from Southwest University (SWU). In addition, I am currently working as a research intern at Vivo (Shanghai), supervised by [Dr. Bo Li](https://scholar.google.com/citations?hl=zh-CN&user=NVzQ87sAAAAJ) and [Shice Liu](https://scholar.google.com/citations?hl=zh-CN&user=_cnkd24AAAAJ).
+I am currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Le Zhang](http://zhangleuestc.cn/) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). Prior to UESTC, I earned my Bachelor's degree from Southwest University (SWU). In addition, I am currently working as a research intern at Vivo (Shanghai), supervised by [Dr. Bo Li](https://scholar.google.com/citations?hl=zh-CN&user=NVzQ87sAAAAJ) and [Shice Liu](https://scholar.google.com/citations?hl=zh-CN&user=_cnkd24AAAAJ).
 
 My current research focuses on **Efficient Low-Level Vision** and **Multimodal Large Language Models**. If you share similar interests or have ideas for collaboration, please feel free to contact me!
 
