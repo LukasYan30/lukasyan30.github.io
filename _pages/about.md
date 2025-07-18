@@ -28,7 +28,9 @@ I am actively looking for PhD positions starting in Fall 2027. If my background 
 - *2025.03*: &nbsp;🎉🎉 I co-organized the [NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Liu_NTIRE_2025_Challenge_on_Low_Light_Image_Enhancement_Methods_and_CVPRW_2025_paper.html))
 
 # 📝 Publications 
-- [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://github.com/AVC2-UESTC/MobileIE), Hailong Yan, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang, **ICCV 2025**
+- [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://github.com/AVC2-UESTC/MobileIE), Hailong Yan, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang. **ICCV 2025**
+- [IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising](https://arxiv.org/pdf/2507.02445), Hailong Yan, Junjian Huang, Tingwen Huang. **arXiv 2025**
+- [Towards Lightest Low-Light Image Enhancement Architecture for Mobile Devices](https://arxiv.org/pdf/2507.04277), Guangrui Bai*, Hailong Yan*, Wenhai Liu, Yahui Deng, Erbao Dong. **arXiv 2025**
 
 # Educations
 - *2024.09 - Present*, M.S., University of Electronic Science and Technology of China (UESTC).
