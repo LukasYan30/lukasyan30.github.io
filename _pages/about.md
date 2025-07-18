@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), under the joint supervision of [Prof. Le Zhang](http://zhangleuestc.cn/) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). Prior to UESTC, I earned my Bachelor's degree from Southwest University (SWU). My current research focuses on **Efficient Low-Level Vision** and **Multimodal Large Language Models**. In addition, I am currently working as a research intern at Vivo (Shanghai), supervised by [Dr. Bo Li](https://scholar.google.com/citations?hl=zh-CN&user=NVzQ87sAAAAJ) and [Shice Liu](https://scholar.google.com/citations?hl=zh-CN&user=_cnkd24AAAAJ).
+Hi, I am Hailong Yan (严海龙). I am currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), under the joint supervision of [Prof. Le Zhang](http://zhangleuestc.cn/) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). Prior to UESTC, I earned my Bachelor's degree from Southwest University (SWU). My current research focuses on **Efficient Low-Level Vision** and **Multimodal Large Language Models**. In addition, I am currently working as a research intern at Vivo (Shanghai), supervised by [Dr. Bo Li](https://scholar.google.com/citations?hl=zh-CN&user=NVzQ87sAAAAJ) and [Shice Liu](https://scholar.google.com/citations?hl=zh-CN&user=_cnkd24AAAAJ).
 
 **Looking for PhD Opportunities (Fall 2027)**  
-I am actively looking for PhD positions starting in Fall 2027. If my background and research interests align with your group, please feel free to contact me!
+I am actively looking for PhD positions starting in Fall 2027. If my background and research interests align with your group, please feel free to contact me at Email: yanhailong@std.uestc.edu.cn, WeChat: PatienceIsKey-
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted to Measurement. 
