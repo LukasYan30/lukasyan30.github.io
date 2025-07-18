@@ -23,7 +23,7 @@ I am currently pursuing my Master's degree in the School of Information and Comm
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted to Measurement. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to ICCV.
-- *2025.03*: &nbsp;🎉🎉 I co-organized the [NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025](https://codalab.lisn.upsaclay.fr/competitions/21636)
+- *2025.03*: &nbsp;🎉🎉 I co-organized the [NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025]([https://codalab.lisn.upsaclay.fr/competitions/21636](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Liu_NTIRE_2025_Challenge_on_Low_Light_Image_Enhancement_Methods_and_CVPRW_2025_paper.html))
 
 # 📝 Publications 
 - [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://github.com/AVC2-UESTC/MobileIE), Hailong Yan, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang, **ICCV 2025**
