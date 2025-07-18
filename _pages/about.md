@@ -23,6 +23,7 @@ I am currently pursuing my Master's degree in the School of Information and Comm
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted to Measurement. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to ICCV.
+- *2025.03*: &nbsp;🎉🎉 I co-organized the [NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025](https://codalab.lisn.upsaclay.fr/competitions/21636)
 
 # 📝 Publications 
 - [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://github.com/AVC2-UESTC/MobileIE), Hailong Yan, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang, **ICCV 2025**
@@ -33,7 +34,7 @@ I am currently pursuing my Master's degree in the School of Information and Comm
 
 # Experience
 - *2025.07 - Present*, Research Intern, [Vivo Camera Research Lab. ](https://github.com/vivoCameraResearch)
-- *2023.10 - 2024.09*, Research Intern, [National Innovation Center For UHD Video Technology (NUHD). ](https://www.nuhd.net/)
+- *2023.10 - 2024.09*, Research Intern, [National Innovation Center For UHD Video Technology. ](https://www.nuhd.net/)
 
 # Academic Services
 - **Journals:** Computers and Electrical Engineering, IEEE TNNLS
