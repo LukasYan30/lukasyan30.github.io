@@ -19,6 +19,8 @@ redirect_from:
 
 I am currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), under the joint supervision of [Prof. Le Zhang](http://zhangleuestc.cn/) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). I earned my Bachelor's degree from Southwest University (SWU). My research interests lie in Efficient Low-Level Vision and Multimodal Large Language Models. In addition, I am currently working as a research intern at Vivo (Shanghai).
 
+**Looking for PhD Opportunities (Fall 2027)**  
+I am actively looking for PhD positions starting in Fall 2027. If my background and research interests align with your group, please feel free to contact me!
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted to Measurement. 
@@ -37,5 +39,5 @@ I am currently pursuing my Master's degree in the School of Information and Comm
 - *2023.10 - 2024.09*, Research Intern, [National Innovation Center For UHD Video Technology. ](https://www.nuhd.net/)
 
 # Academic Services
-- **Journals:** Computers and Electrical Engineering, IEEE TNNLS
+- **Journals:** IEEE TNNLS, Computers and Electrical Engineering
 
