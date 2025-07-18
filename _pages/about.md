@@ -32,7 +32,7 @@ I am currently pursuing my Master's degree in the School of Information and Comm
 - *2020.09 - 2024.06*, B.S., Southwest University (SWU). 
 
 # Experience
-- *2025.07 - Present*, Research Intern, [Vivo Camera Research Lab. ]([https://www.nuhd.net/](https://github.com/vivoCameraResearch))
+- *2025.07 - Present*, Research Intern, [Vivo Camera Research Lab. ](https://github.com/vivoCameraResearch)
 - *2023.10 - 2024.09*, Research Intern, [National Innovation Center For UHD Video Technology (NUHD). ](https://www.nuhd.net/)
 
   
