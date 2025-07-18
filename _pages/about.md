@@ -21,14 +21,11 @@ I am currently pursuing my Master's degree in the School of Information and Comm
 
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 One paper is accepted to Measurement. 
+- *2025.07*: &nbsp;🎉🎉 One paper is accepted to Measurement. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to ICCV.
 
 # 📝 Publications 
 - [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://github.com/AVC2-UESTC/MobileIE), Hailong Yan, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang, **ICCV 2025**
-
-
-
 
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
