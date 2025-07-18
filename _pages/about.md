@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), under the joint supervision of [Prof. Le Zhang](http://zhangleuestc.cn/) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). I earned my Bachelor's degree from Southwest University (SWU), where I was advised by [Prof. Junjian Huang](https://scholar.google.com/citations?user=iuXJAt4AAAAJ&hl=zh-CN). My research interests lie in Efficient Low-Level Vision and Multimodal Large Language Models. In addition, I am currently working as a research intern at Vivo Camera Research Lab (Shanghai).
+I am currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), under the joint supervision of [Prof. Le Zhang](http://zhangleuestc.cn/) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). I earned my Bachelor's degree from Southwest University (SWU). My research interests lie in Efficient Low-Level Vision and Multimodal Large Language Models. In addition, I am currently working as a research intern at Vivo (Shanghai).
 
 
 # 🔥 News
@@ -35,7 +35,6 @@ I am currently pursuing my Master's degree in the School of Information and Comm
 - *2025.07 - Present*, Research Intern, [Vivo Camera Research Lab. ](https://github.com/vivoCameraResearch)
 - *2023.10 - 2024.09*, Research Intern, [National Innovation Center For UHD Video Technology (NUHD). ](https://www.nuhd.net/)
 
-  
 # Academic Services
-- **Journals:** TNNLS
+- **Journals:** Computers and Electrical Engineering, IEEE TNNLS
 
