@@ -31,6 +31,7 @@ I am actively looking for PhD positions starting in Fall 2027. If my background 
 - [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838), Hailong Yan, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang. **ICCV 2025**
 - [IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising](https://arxiv.org/pdf/2507.02445), Hailong Yan, Junjian Huang, Tingwen Huang. **arXiv 2025**
 - [Towards Lightest Low-Light Image Enhancement Architecture for Mobile Devices](https://arxiv.org/pdf/2507.04277), Guangrui Bai\*, Hailong Yan\*, Wenhai Liu, Yahui Deng, Erbao Dong. **arXiv 2025**
+
  \* Equal contribution
 
 # Educations
