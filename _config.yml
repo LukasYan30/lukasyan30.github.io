@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hailong Yan (严海龙)"
+  name             : "Hailong Yan"
   avatar           : "images/yhl.jpg"
   bio              : "Master Student"
   location         : "Shanghai, China"
