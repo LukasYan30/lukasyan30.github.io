@@ -27,7 +27,7 @@ I am actively looking for PhD positions (mainly abroad) starting in Fall 2027. I
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 One paper is accepted to Measurement. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to ICCV.
-- *2025.03*: &nbsp;🎉🎉 I co-organized the [NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Liu_NTIRE_2025_Challenge_on_Low_Light_Image_Enhancement_Methods_and_CVPRW_2025_paper.html))
+- *2025.03*: &nbsp;🎉🎉 I co-organized the [NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Liu_NTIRE_2025_Challenge_on_Low_Light_Image_Enhancement_Methods_and_CVPRW_2025_paper.html)
 
 # 📝 Publications 
 - [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838), Hailong Yan, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang. **ICCV 2025**
