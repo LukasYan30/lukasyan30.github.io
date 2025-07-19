@@ -37,8 +37,8 @@ I am actively looking for PhD positions (mainly abroad) starting in Fall 2027. I
  \* Equal contribution
 
 # Educations
-- *2024.09 - Present*, M.S., University of Electronic Science and Technology of China (UESTC).
-- *2020.09 - 2024.06*, B.S., Southwest University (SWU). 
+- *2024.09 - Present*, M.S., University of Electronic Science and Technology of China (UESTC), Chengdu, China.
+- *2020.09 - 2024.06*, B.S., Southwest University (SWU), Chongqing, China. 
 
 # Experience
 - *2025.07 - Present*, Research Intern, [Vivo Camera Research Lab. ](https://github.com/vivoCameraResearch)
