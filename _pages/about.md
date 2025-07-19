@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Le Zhang](http://zhangleuestc.cn/) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). Prior to UESTC, I earned my Bachelor's degree from Southwest University (SWU). In addition, I am currently working as a research intern at [Vivo Camera Research Lab (Shanghai)](https://github.com/vivoCameraResearch).
+Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Le Zhang](http://zhangleuestc.cn/) and [Prof. Ce Zhu](https://www.avc2-lab.net/~eczhu/). Prior to UESTC, I earned my Bachelor's degree from Southwest University (SWU). In addition, I am currently working as a research intern at [Vivo (Shanghai)](https://github.com/vivoCameraResearch).
 
 My current research focuses on **Efficient Low-Level Vision** and **Multimodal Large Language Models**. If you share similar interests or have ideas for collaboration, please feel free to contact me!
 
