@@ -25,7 +25,7 @@ My current research focuses on **Efficient Low-Level Vision** and **Multimodal L
 I am actively looking for PhD positions starting in Fall 2027. If my background and research interests align with your group, please feel free to contact me at Email: yanhailong@std.uestc.edu.cn, WeChat: PatienceIsKey- .
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 Two paper are accepted to Expert Systems With Applications, Measurement. 
+- *2025.07*: &nbsp;🎉🎉 Two papers are accepted to Expert Systems With Applications, Measurement. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to ICCV.
 - *2025.03*: &nbsp;🎉🎉 I co-organized the [NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Liu_NTIRE_2025_Challenge_on_Low_Light_Image_Enhancement_Methods_and_CVPRW_2025_paper.html)
 
