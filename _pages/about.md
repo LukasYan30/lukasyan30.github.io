@@ -46,4 +46,5 @@ I am actively looking for PhD positions starting in Fall 2027. If my background 
 
 # Academic Services
 - **Journals:** IEEE TNNLS, Computers and Electrical Engineering
+- **Conferences:** AAAI
 
