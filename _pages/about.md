@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC). Prior to UESTC, I earned my Bachelor's degree from Southwest University (SWU). In addition, I am currently working as a research intern at [Vivo (Shanghai)](https://github.com/vivoCameraResearch).
 
-My current research focuses on **Efficient Low-Level Vision** and **Multimodal Large Language Models**. If you share similar interests or have ideas for collaboration, please feel free to contact me!
+My current research focuses on **Multimodal Large Language Models** and **Efficient Low-Level Vision**. If you share similar interests or have ideas for collaboration, please feel free to contact me!
 
 **Looking for PhD Opportunities (Fall 2027)**  
 I am actively looking for PhD positions starting in Fall 2027. If my background and research interests align with your group, please feel free to contact me at Email: yanhailong@std.uestc.edu.cn, WeChat: PatienceIsKey- .
