@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC). Prior to UESTC, I earned my Bachelor's degree from Southwest University (SWU). In addition, I am currently working as a research intern at [Vivo (Shanghai)](https://github.com/vivoCameraResearch).
+Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC). In addition, I am currently working as a research intern at [Vivo (Shanghai)](https://github.com/vivoCameraResearch).
 
 My current research focuses on **LLM-driven Multimodal Agents** and **Efficient Low-Level Vision**. If you share similar interests or have ideas for collaboration, please feel free to contact me!
 
