@@ -25,7 +25,7 @@ My current research focuses on **LLM-driven Multimodal Agents** and **Efficient 
 I am actively looking for PhD positions starting in Fall 2027. If my background and research interests align with your group, please feel free to contact me at Email: yanhailong@std.uestc.edu.cn.
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 I am honored to receive the Xiaomi Top Scholarship and UESTC First-Class Academic Scholarship. 
+- *2025.11*: &nbsp;🎉🎉 I am honored to receive the Xiaomi Special Scholarship and UESTC First-Class Academic Scholarship. 
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted to Expert Systems With Applications, Measurement. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to ICCV 2025.
 - *2025.03*: &nbsp;🎉🎉 I co-organized the NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025.
