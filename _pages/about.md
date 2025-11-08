@@ -21,9 +21,6 @@ Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the S
 
 My current research focuses on **LLM-driven Multimodal Agents** and **Efficient Low-Level Vision**.
 
-**Looking for PhD Opportunities (Fall 2027)**  
-I am actively looking for PhD positions starting in Fall 2027. If my background and research interests align with your group, please feel free to contact me at Email: yanhailong@std.uestc.edu.cn.
-
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 I am honored to receive the Xiaomi Special Scholarship and UESTC First-Class Academic Scholarship. 
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted to Expert Systems With Applications, Measurement. 
