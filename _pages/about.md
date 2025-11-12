@@ -22,6 +22,7 @@ Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the S
 My current research focuses on **LLM-driven Multimodal Agents** and **Efficient Low-Level Vision**.
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted to IEEE Transactions on Artificial Intelligence.
 - *2025.11*: &nbsp;🎉🎉 I am honored to receive the Xiaomi Special Scholarship and UESTC First-Class Academic Scholarship. 
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted to Expert Systems With Applications, Measurement. 
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to ICCV 2025.
@@ -30,7 +31,7 @@ My current research focuses on **LLM-driven Multimodal Agents** and **Efficient 
 # 📝 Publications 
 - [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838), **Hailong Yan**, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang. **ICCV 2025**
 - [Towards Lightest Low-Light Image Enhancement Architecture for Mobile Devices](https://arxiv.org/pdf/2507.04277), Guangrui Bai\*, **Hailong Yan**\*, Wenhai Liu, Yahui Deng, Erbao Dong. **ESWA 2025**
-- [IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising](https://arxiv.org/pdf/2507.02445), **Hailong Yan**, Junjian Huang, Tingwen Huang. **arXiv 2025**
+- [IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising](https://arxiv.org/pdf/2507.02445), **Hailong Yan**, Junjian Huang, Tingwen Huang. **IEEE TAI 2025**
 - [NTIRE 2025 Challenge on Low Light Image Enhancement: Methods and Results](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Liu_NTIRE_2025_Challenge_on_Low_Light_Image_Enhancement_Methods_and_CVPRW_2025_paper.html), Xiaoning Liu, Zongwei Wu, Florin-Alexandru Vasluianu, **Hailong Yan**, Bin Ren, Yulun Zhang, Shuhang Gu, Le Zhang, Ce Zhu, Radu Timofte. **CVPRW 2025**
 
  \* Equal contribution
