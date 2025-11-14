@@ -44,6 +44,6 @@ My current research focuses on **LLM-driven Multimodal Agents** and **Efficient 
 - *2025.07 - Present*, Research Intern, [Vivo Camera Research Lab. ](https://github.com/vivoCameraResearch)
 
 # Academic Services
-- **Journals:** IEEE TNNLS, Computers and Electrical Engineering
-- **Conferences:** AAAI
+- **Journals:** IEEE T-NNLS, C&EE
+- **Conferences:** CVPR, AAAI
 
