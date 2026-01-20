@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC).
 
-My current research focuses on **LLM-driven Multimodal Agents** and **Efficient Low-Level Vision**.
+My current research focuses on **Creative AIGC**, **Multimodal Agents** and **Efficient Low-Level Vision**.
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted to IEEE Transactions on Artificial Intelligence.
