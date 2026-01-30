@@ -29,10 +29,10 @@ My current research focuses on **Creative AIGC** and **Efficient Low-Level Visio
 - *2025.03*: &nbsp;🎉🎉 I co-organized the NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025.
 
 # 📝 Publications 
-- [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838), **Hailong Yan**, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang. **ICCV 2025**, **[WeChat Report](https://mp.weixin.qq.com/s/lxGLVqNU5AYoHphtWZwDwQ)**
-- [IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising](https://arxiv.org/pdf/2507.02445), **Hailong Yan**, Junjian Huang, Tingwen Huang. **IEEE TAI 2025**, **[WeChat Report](https://mp.weixin.qq.com/s/fZZseA8ZSrcpbrpDZoO_Rw)**
+- [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838), **Hailong Yan**, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang. **ICCV 2025**, **[Code](https://github.com/AVC2-UESTC/MobileIE)**, **[WeChat Report](https://mp.weixin.qq.com/s/lxGLVqNU5AYoHphtWZwDwQ)**
+- [IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising](https://arxiv.org/pdf/2507.02445), **Hailong Yan**, Junjian Huang, Tingwen Huang. **IEEE TAI 2025**, **[Code](https://github.com/LukasYan30/IGDNet)**, **[WeChat Report](https://mp.weixin.qq.com/s/fZZseA8ZSrcpbrpDZoO_Rw)**
 - [Towards Lightest Low-Light Image Enhancement Architecture for Mobile Devices](https://arxiv.org/pdf/2507.04277), Guangrui Bai\*, **Hailong Yan**\*, Wenhai Liu, Yahui Deng, Erbao Dong. **ESWA 2025**
-- [Revisiting Lightweight Low-Light Image Enhancement: From a YUV Color Space Perspective](https://arxiv.org/abs/2601.17349), **Hailong Yan**, Shice Liu, Xiangtao Zhang, Lujian Yao, Fengxiang Yang, Jinwei Chen, Bo Li. **arXiv 2026**, **[WeChat Report](https://mp.weixin.qq.com/s/fmW58lVCemHHAOa-SqIbPQ)**
+- [Revisiting Lightweight Low-Light Image Enhancement: From a YUV Color Space Perspective](https://arxiv.org/abs/2601.17349), **Hailong Yan**, Shice Liu, Xiangtao Zhang, Lujian Yao, Fengxiang Yang, Jinwei Chen, Bo Li. **arXiv 2026**, **[Code](https://github.com/LukasYan30/L3IE-YUV)**, **[WeChat Report](https://mp.weixin.qq.com/s/fmW58lVCemHHAOa-SqIbPQ)**
 - [NTIRE 2025 Challenge on Low Light Image Enhancement: Methods and Results](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Liu_NTIRE_2025_Challenge_on_Low_Light_Image_Enhancement_Methods_and_CVPRW_2025_paper.html), Xiaoning Liu, Zongwei Wu, Florin-Alexandru Vasluianu, **Hailong Yan**, Bin Ren, Yulun Zhang, Shuhang Gu, Le Zhang, Ce Zhu, Radu Timofte. **CVPRW 2025**
 
  \* Equal contribution
