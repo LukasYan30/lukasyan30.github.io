@@ -43,7 +43,7 @@ My current research focuses on **Creative AIGC** and **Efficient Low-Level Visio
 - *2020.09 - 2024.06*, B.S., Southwest University (SWU), Chongqing, China. 
 
 # Experience
-- *2025.07 - 2026.02*, Research Intern, [Vivo Camera Research Lab. ](https://github.com/vivoCameraResearch)
+- *2025.07 - 2026.03*, Research Intern, [Vivo Camera Research Lab. ](https://github.com/vivoCameraResearch)
 
 # Academic Services
 - **Journals:** T-PAMI, T-NNLS
