@@ -47,5 +47,5 @@ My current research focuses on **Creative AIGC** and **Efficient Low-Level Visio
 
 # Academic Services
 - **Journals:** T-PAMI, T-NNLS
-- **Conferences:** CVPR, AAAI, ACM MM
+- **Conferences:** CVPR, AAAI
 
