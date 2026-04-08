@@ -22,6 +22,7 @@ Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the S
 My current research focuses on **Creative AIGC** and **Efficient Low-Level Vision**. If you share similar interests or would like to explore potential collaboration, please feel free to reach out!
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 MobileIE won the Runner-Up award in the Learned Smartphone ISP Challenge at the Mobile AI Workshop @ CVPR 2026.
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted to IEEE Transactions on Artificial Intelligence.
 - *2025.11*: &nbsp;🎉🎉 I am honored to receive the Xiaomi Special Scholarship and UESTC First-Class Academic Scholarship. 
 - *2025.07*: &nbsp;🎉🎉 Two papers are accepted to Expert Systems With Applications, Measurement. 
