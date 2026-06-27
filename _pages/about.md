@@ -40,8 +40,9 @@ My current research focuses on **Image/Video Generation** and **Efficient Low-Le
  \* Equal contribution
 
 # Educations
-- *2024.09 - Present*, M.S., University of Electronic Science and Technology of China (UESTC), Chengdu, China.
-- *2020.09 - 2024.06*, B.S., Southwest University (SWU), Chongqing, China. 
+- *2024.09 - Present*, M.S. in Computer Science, University of Electronic Science and Technology of China, Chengdu, China.
+- *2020.09 - 2024.06*, B.S. in Computer Science, Southwest University, Chongqing, China.
+- *2019.09 - 2020.06*, B.S. in Materials Science, Southwest University, Chongqing, China. 
 
 # Experience
 - *2025.07 - 2026.03*, Research Intern, [vivo BlueImage Lab. ](https://github.com/vivoCameraResearch)
