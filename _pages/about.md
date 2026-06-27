@@ -45,7 +45,7 @@ My current research focuses on **Image/Video Generation** and **Efficient Low-Le
 - *2019.09 - 2020.06*, B.S. in Materials Science, Southwest University, Chongqing, China. 
 
 # Experience
-- *2025.07 - 2026.03*, Research Intern, [vivo BlueImage Lab. ](https://github.com/vivoCameraResearch)
+- *2025.07 - 2026.03*, Research Intern, [vivo BlueImage Lab, ](https://github.com/vivoCameraResearch) Shanghai, China.
 
 # Academic Services
 - **Journals:** T-PAMI, T-NNLS
