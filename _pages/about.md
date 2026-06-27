@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC).
 
-My current research focuses on **Creative AIGC** and **Efficient Low-Level Vision**. If you share similar interests or would like to explore potential collaboration, please feel free to reach out!
+My current research focuses on **Image/Video Generation** and **Efficient Low-Level Vision**. If you share similar interests or would like to explore potential collaboration, please feel free to reach out!
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 MobileIE was awarded the Runner-Up in the MAI Learned Smartphone ISP Challenge @ CVPR 2026.
