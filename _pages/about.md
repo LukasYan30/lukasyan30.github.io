@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Le Zhang](https://scholar.google.com/citations?user=61LOyWUAAAAJ&hl=en).
+Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC).
 
 My current research focuses on **Image/Video Generation** and **Efficient Low-Level Vision**. If you share similar interests or would like to explore potential collaboration, please feel free to reach out!
 
