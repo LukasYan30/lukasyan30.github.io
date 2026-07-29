@@ -31,7 +31,7 @@ My current research focuses on **Image/Video Generation** and **Efficient Low-Le
 
 # 📝 Publications 
 - [AnimeAgent: Is the Multi-Agent via Image-to-Video models a Good Disney Storytelling Artist?](https://arxiv.org/pdf/2602.20664), **Hailong Yan**, Shice Liu, Tao Wang, Xiangtao Zhang, Yijie Zhong, Jinwei Chen, Le Zhang, Bo Li. **arXiv 2026**, **[Code](https://github.com/LukasYan30/AnimeAgent)**
-- [Revisiting Lightweight Low-Light Image Enhancement: From a YUV Color Space Perspective](https://arxiv.org/abs/2601.17349), **Hailong Yan**, Shice Liu, Xiangtao Zhang, Lujian Yao, Fengxiang Yang, Jinwei Chen, Bo Li. **arXiv 2026**, **[Code](https://github.com/LukasYan30/L3IE-YUV)**, **[WeChat Report](https://mp.weixin.qq.com/s/fmW58lVCemHHAOa-SqIbPQ)**
+- [Revisiting Lightweight Low-Light Image Enhancement: From a YUV Color Space Perspective](https://arxiv.org/abs/2601.17349), **Hailong Yan**, Shice Liu, Xiangtao Zhang, Lujian Yao, Fengxiang Yang, Jinwei Chen, Bo Li. **Under Review in IEEE T-IP**, **[Code](https://github.com/LukasYan30/L3IE-YUV)**, **[WeChat Report](https://mp.weixin.qq.com/s/fmW58lVCemHHAOa-SqIbPQ)**
 - [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838), **Hailong Yan**, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang. **ICCV 2025**, **[Code](https://github.com/AVC2-UESTC/MobileIE)**, **[WeChat Report](https://mp.weixin.qq.com/s/lxGLVqNU5AYoHphtWZwDwQ)**
 - [IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising](https://arxiv.org/pdf/2507.02445), **Hailong Yan**, Junjian Huang, Tingwen Huang. **IEEE T-AI 2025**, **[Code](https://github.com/LukasYan30/IGDNet)**, **[WeChat Report](https://mp.weixin.qq.com/s/fZZseA8ZSrcpbrpDZoO_Rw)**
 - [Towards Lightest Low-Light Image Enhancement Architecture for Mobile Devices](https://arxiv.org/pdf/2507.04277), Guangrui Bai\*, **Hailong Yan**\*, Wenhai Liu, Yahui Deng, Erbao Dong. **ESWA 2025**, **[Code](https://github.com/mubaisam/LiteIE)**     
@@ -49,5 +49,5 @@ My current research focuses on **Image/Video Generation** and **Efficient Low-Le
 
 # Academic Services
 - **Journals:** T-PAMI, T-NNLS
-- **Conferences:** CVPR, NeurIPS, AAAI
+- **Conferences:** CVPR, NeurIPS, AAAI, ECCVW
 
