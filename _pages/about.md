@@ -49,5 +49,5 @@ My current research focuses on **Image/Video Generation** and **Efficient Low-Le
 
 # Academic Services
 - **Journals:** T-PAMI, T-NNLS
-- **Conferences:** CVPR, NeurIPS, AAAI, ECCVW
+- **Conferences:** CVPR, NeurIPS, AAAI
 
