@@ -50,6 +50,6 @@ My current research focuses on **Image/Video Generation** and **Efficient Low-Le
 - *2025.07 - 2026.03*, Research Intern, [vivo BlueImage Lab, ](https://github.com/vivoCameraResearch) Shanghai, China.
 
 # Academic Services
-- **Journals:** T-PAMI, T-NNLS
+- **Journals:** T-PAMI, T-IP, T-NNLS
 - **Conferences:** CVPR, NeurIPS, AAAI
 
