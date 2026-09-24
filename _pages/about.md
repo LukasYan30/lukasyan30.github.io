@@ -22,6 +22,7 @@ Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the S
 My current research focuses on **Image/Video Generation** and **Efficient Low-Level Vision**. If you share similar research interests or are open to potential collaborations, please feel free to reach out!
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Three paper are accepted to NeurIPS 2026.
 - *2026.08*: &nbsp;🎉🎉 I have been invited to be a Reviewer for IEEE Transactions on Image Processing [(T-IP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
 - *2026.04*: &nbsp;🎉🎉 MobileIE was awarded the Runner-Up in the MAI Learned Smartphone ISP Challenge @ CVPR 2026.
 - *2026.03*: &nbsp;🎉🎉 I have been invited to be a Reviewer for IEEE Transactions on Neural Networks and Learning Systems [(T-NNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
@@ -35,6 +36,7 @@ My current research focuses on **Image/Video Generation** and **Efficient Low-Le
 # 📝 Publications 
 - [AnimeAgent: Is the Multi-Agent via Image-to-Video models a Good Disney Storytelling Artist?](https://arxiv.org/pdf/2602.20664), **Hailong Yan**, Shice Liu, Tao Wang, Xiangtao Zhang, Yijie Zhong, Jinwei Chen, Le Zhang, Bo Li. **In Submission, 2026**, **[Code](https://github.com/LukasYan30/AnimeAgent)**
 - [Revisiting Lightweight Low-Light Image Enhancement: From a YUV Color Space Perspective](https://arxiv.org/abs/2601.17349), **Hailong Yan**, Shice Liu, Xiangtao Zhang, Lujian Yao, Fengxiang Yang, Jinwei Chen, Bo Li. **In Submission, 2026**, **[Code](https://github.com/LukasYan30/L3IE-YUV)**, **[WeChat Report](https://mp.weixin.qq.com/s/fmW58lVCemHHAOa-SqIbPQ)**
+- [MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport], **Hailong Yan**, Yongrui Zhang, Xiangtao Zhang, Le Zhang. **NeurIPS 2026**.
 - [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838), **Hailong Yan**, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang. **ICCV 2025**, **[Code](https://github.com/AVC2-UESTC/MobileIE)**, **[WeChat Report](https://mp.weixin.qq.com/s/lxGLVqNU5AYoHphtWZwDwQ)**
 - [IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising](https://arxiv.org/pdf/2507.02445), **Hailong Yan**, Junjian Huang, Tingwen Huang. **IEEE T-AI 2025**, **[Code](https://github.com/LukasYan30/IGDNet)**, **[WeChat Report](https://mp.weixin.qq.com/s/fZZseA8ZSrcpbrpDZoO_Rw)**
 - [Towards Lightest Low-Light Image Enhancement Architecture for Mobile Devices](https://arxiv.org/pdf/2507.04277), Guangrui Bai\*, **Hailong Yan**\*, Wenhai Liu, Yahui Deng, Erbao Dong. **ESWA 2025**, **[Code](https://github.com/mubaisam/LiteIE)**
