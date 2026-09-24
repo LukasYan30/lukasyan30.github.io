@@ -22,7 +22,7 @@ Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the S
 My current research focuses on **Image/Video Generation** and **Efficient Low-Level Vision**. If you share similar research interests or are open to potential collaborations, please feel free to reach out!
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 Three paper are accepted to NeurIPS 2026.
+- *2026.09*: &nbsp;🎉🎉 Three papers are accepted to NeurIPS 2026.
 - *2026.08*: &nbsp;🎉🎉 I have been invited to be a Reviewer for IEEE Transactions on Image Processing [(T-IP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
 - *2026.04*: &nbsp;🎉🎉 MobileIE was awarded the Runner-Up in the MAI Learned Smartphone ISP Challenge @ CVPR 2026.
 - *2026.03*: &nbsp;🎉🎉 I have been invited to be a Reviewer for IEEE Transactions on Neural Networks and Learning Systems [(T-NNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
