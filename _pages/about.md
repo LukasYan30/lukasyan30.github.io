@@ -33,7 +33,7 @@ My current research focuses on **Image/Video Generation** and **Efficient Low-Le
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted to ICCV 2025.
 - *2025.03*: &nbsp;🎉🎉 I co-organized the NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 - [MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport](https://github.com/LukasYan30/MorphSIG), **Hailong Yan**, Yongrui Zhang, Xiangtao Zhang, Le Zhang. **NeurIPS 2026**, **[Code](https://github.com/LukasYan30/MorphSIG)**
 - [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838), **Hailong Yan**, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang. **ICCV 2025**, **[Code](https://github.com/AVC2-UESTC/MobileIE)**, **[WeChat Report](https://mp.weixin.qq.com/s/lxGLVqNU5AYoHphtWZwDwQ)**
 - [IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising](https://arxiv.org/pdf/2507.02445), **Hailong Yan**, Junjian Huang, Tingwen Huang. **IEEE T-AI 2025**, **[Code](https://github.com/LukasYan30/IGDNet)**, **[WeChat Report](https://mp.weixin.qq.com/s/fZZseA8ZSrcpbrpDZoO_Rw)**
