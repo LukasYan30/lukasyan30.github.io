@@ -52,6 +52,7 @@ My current research focuses on **Image/Video Generation** and **Efficient Low-Le
 
 
 # Experience
+- *2025.06 - 2026.12*, Research Intern, [Tencent TiMi L1 Studio, ]((https://timi.qq.com/)) China.
 - *2025.07 - 2026.03*, Research Intern, [vivo BlueImage Lab, ](https://github.com/vivoCameraResearch) China.
 
 # Academic Services
