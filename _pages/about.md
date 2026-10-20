@@ -22,18 +22,18 @@ Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the S
 My current research focuses on **Image/Video Generation** and **Efficient Low-Level Vision**. If you share similar research interests or are open to potential collaborations, please feel free to reach out!
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉🎉 I am honored to receive the National Scholarship and UESTC First-Class Scholarship.
-- *2026.09*: &nbsp;🎉🎉 Three papers are accepted to NeurIPS 2026.
-- *2026.08*: &nbsp;🎉🎉 I have been invited to be a Reviewer for IEEE Transactions on Image Processing [(T-IP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
-- *2026.04*: &nbsp;🎉🎉 MobileIE was awarded the Runner-Up in the MAI Learned Smartphone ISP Challenge @ CVPR 2026.
-- *2026.03*: &nbsp;🎉🎉 I have been invited to be a Reviewer for IEEE Transactions on Neural Networks and Learning Systems [(T-NNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
-- *2025.12*: &nbsp;🎉🎉 I have been invited to be a Reviewer for IEEE Transactions on Pattern Analysis and Machine Intelligence [(T-PAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
-- *2025.11*: &nbsp;🎉🎉 One paper is accepted to IEEE Transactions on Artificial Intelligence [(T-AI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688).
-- *2025.11*: &nbsp;🎉🎉 I am honored to receive the Xiaomi Special Scholarship and UESTC First-Class Scholarship. 
-- *2025.07*: &nbsp;🎉🎉 Two papers are accepted to Expert Systems With Applications, Measurement. 
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted to ICCV 2025.
-- *2025.03*: &nbsp;🎉🎉 I co-organized the NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025.
-- *2024.09*: &nbsp;🎉🎉 I am honored to receive the UESTC First-Class Scholarship. 
+- *2026.10*: &nbsp;🎉🎉 I am honored to receive the **National Scholarship** and **UESTC First-Class Scholarship**.
+- *2026.09*: &nbsp;🎉🎉 Three papers are accepted to **NeurIPS 2026**.
+- *2026.08*: &nbsp;🎉🎉 I have been invited to be a Reviewer for **IEEE Transactions on Image Processing** [(T-IP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83).
+- *2026.04*: &nbsp;🎉🎉 MobileIE was awarded the **Runner-Up** in the MAI Learned Smartphone ISP Challenge @ CVPR 2026.
+- *2026.03*: &nbsp;🎉🎉 I have been invited to be a Reviewer for **IEEE Transactions on Neural Networks and Learning Systems** [(T-NNLS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
+- *2025.12*: &nbsp;🎉🎉 I have been invited to be a Reviewer for **IEEE Transactions on Pattern Analysis and Machine Intelligence** [(T-PAMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).
+- *2025.11*: &nbsp;🎉🎉 One paper is accepted to **IEEE Transactions on Artificial Intelligence** [(T-AI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688).
+- *2025.11*: &nbsp;🎉🎉 I am honored to receive the **Xiaomi Special Scholarship** and **UESTC First-Class Scholarship**. 
+- *2025.07*: &nbsp;🎉🎉 Two papers are accepted to **Expert Systems With Applications(SCI-Q1)**, **Measurement(SCI-Q1)**. 
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted to **ICCV 2025**.
+- *2025.03*: &nbsp;🎉🎉 I co-organized the **NTIRE 2025 Low-Light Image Enhancement Challenge @ CVPR 2025**.
+- *2024.09*: &nbsp;🎉🎉 I am honored to receive the **UESTC First-Class Scholarship**. 
 
 # 📝 Publications 
 - [MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport](https://github.com/LukasYan30/MorphSIG), **Hailong Yan**, Yongrui Zhang, Xiangtao Zhang, Le Zhang. **NeurIPS 2026**, **[Code](https://github.com/LukasYan30/MorphSIG)**
