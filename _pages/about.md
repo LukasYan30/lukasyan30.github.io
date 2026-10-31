@@ -36,7 +36,7 @@ My current research focuses on **Image/Video Generation** and **Efficient Low-Le
 - *2024.09*: &nbsp;🎉🎉 I am honored to receive the **UESTC First-Class Scholarship**. 
 
 # 📝 Publications 
-- [MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport](https://github.com/LukasYan30/MorphSIG), **Hailong Yan**, Yongrui Zhang, Xiangtao Zhang, Le Zhang. **NeurIPS 2026**, **[Code](https://github.com/LukasYan30/MorphSIG)**
+- [MorphSIG: Subject-Driven Image Generation via Decoupled Anchoring and Feature Transport](https://arxiv.org/pdf/2610.39530), **Hailong Yan**, Yongrui Zhang, Xiangtao Zhang, Le Zhang. **NeurIPS 2026**, **[Code](https://github.com/LukasYan30/MorphSIG)**
 - [MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices](https://arxiv.org/pdf/2507.01838), **Hailong Yan**, Ao Li, Xiangtao Zhang,  Zhe Liu, Zenglin Shi, Ce Zhu, Le Zhang. **ICCV 2025**, **[Code](https://github.com/AVC2-UESTC/MobileIE)**, **[WeChat Report](https://mp.weixin.qq.com/s/lxGLVqNU5AYoHphtWZwDwQ)**
 - [IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising](https://arxiv.org/pdf/2507.02445), **Hailong Yan**, Junjian Huang, Tingwen Huang. **IEEE T-AI 2025**, **[Code](https://github.com/LukasYan30/IGDNet)**, **[WeChat Report](https://mp.weixin.qq.com/s/fZZseA8ZSrcpbrpDZoO_Rw)**
 - [Towards Lightest Low-Light Image Enhancement Architecture for Mobile Devices](https://arxiv.org/pdf/2507.04277), Guangrui Bai\*, **Hailong Yan**\*, Wenhai Liu, Yahui Deng, Erbao Dong. **ESWA 2025**, **[Code](https://github.com/mubaisam/LiteIE)**
