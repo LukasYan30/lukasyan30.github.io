@@ -19,9 +19,9 @@ redirect_from:
 
 Hi, I am Hailong Yan (严海龙), currently pursuing my Master's degree in the School of Information and Communication Engineering (SICE) at the University of Electronic Science and Technology of China (UESTC), supervised by [Prof. Le Zhang](https://scholar.google.com/citations?user=61LOyWUAAAAJ&hl=en).
 
-Research interests: Generative AI, Image/Video Generation, World Models, and Multimodal Understanding.
+**Research interests:** Generative AI, Image/Video Generation, World Models, and Multimodal Understanding.
 
-I am seeking Ph.D. opportunities starting in Fall 2027. If my background and research interests align with your group, I would be grateful for the opportunity to discuss potential Ph.D. positions. Email: yanhailong@std.uestc.edu.cn, WeChat: Hllukasyan
+**I am seeking Ph.D. opportunities starting in Fall 2027.** If my background and research interests align with your group, I would be grateful for the opportunity to discuss potential Ph.D. positions. Email: yanhailong@std.uestc.edu.cn, WeChat: Hllukasyan
 
 # 🔥 News
 - *2026.10*: &nbsp;🎉🎉 I am honored to receive the **National Scholarship** and **First-Class Scholarship of UESTC**.
